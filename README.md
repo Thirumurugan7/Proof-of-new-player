@@ -1,4 +1,10 @@
-# zkGraph default template
+# Proof of New Player
+
+It is a ZK Graph which helps taking the registration process to offchain using Hyperoracle.
+
+Here the deployed contract address:
+
+` 0x90183Ca84c58e9126D2EE925715875c13d103962 `
 
 
 ## Usage CLI
