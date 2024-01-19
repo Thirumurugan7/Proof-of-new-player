@@ -7,8 +7,8 @@ dataSources:
   - kind: ethereum
     network: sepolia
     event:
-      - address: '0x90183Ca84c58e9126D2EE925715875c13d103962'
-        events: 
+      - address: "0x90183Ca84c58e9126D2EE925715875c13d103962"
+        events:
           - "NewPlayer(address)"
 
 mapping:
